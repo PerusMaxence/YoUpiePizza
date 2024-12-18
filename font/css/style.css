@@ -207,7 +207,7 @@ header:hover {
 /*[3. ACCUEIL]===========================================*/
 
 #accueil-container-1 {
-    background-image: url('../img/background_1.png');
+    background-image: url('../font/img/background_1.png');
     background-size: cover;
     background-position: center;
     display: flex;
